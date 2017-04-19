@@ -1,0 +1,9 @@
+﻿Group: Misc
+FriendlyName: ODBC Product price updating
+SystemName: Misc.ODBCProductPriceUpdate
+Version: 1.
+SupportedVersions: 3.90
+Author: @rtm00
+DisplayOrder: 1
+FileName: Nop.Plugin.Misc.ODBCProductPriceUpdate.dll
+Description: This plugin for updating product price from SQL database

@@ -1,0 +1,9 @@
+﻿Group: Misc
+FriendlyName: ODBC core
+SystemName: Misc.ODBCCore
+Version: 1.
+SupportedVersions: 3.90
+Author: @rtm00
+DisplayOrder: 1
+FileName: Nop.Plugin.Misc.ODBCCore.dll
+Description: This plugin for manage ODBC connection

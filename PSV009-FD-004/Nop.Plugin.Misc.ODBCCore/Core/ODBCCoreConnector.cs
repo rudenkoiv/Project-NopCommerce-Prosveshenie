@@ -26,8 +26,6 @@ namespace Nop.Plugin.Misc.ODBCCore.Core
 
         public DataSet readData(string queryString)
         {
-            //string queryString = "SELECT PriceTable.MsgId, PriceTable.ItemId, PriceTable.Price From MsgTable INNER JOIN  PriceTable ON MsgTable.MsgId=PriceTable.MsgId where MsgTable.MsgType = 'PriceEC' order by MsgTable.MsgId asc";
-
             OdbcCommand command = new OdbcCommand(queryString);
             DataSet dataSet = new DataSet();
             using (OdbcConnection connection = new OdbcConnection(appendStringConnection()))

@@ -1,0 +1,9 @@
+C:\Users\SAAN\Documents\Visual Studio 2015\Projects\Nopcommerce\Presentation\Nop.Web\Plugins\Misc.ODBCProductOnhandUpdate\Description.txt
+C:\Users\SAAN\Documents\Visual Studio 2015\Projects\Nopcommerce\Presentation\Nop.Web\Plugins\Misc.ODBCProductOnhandUpdate\logo.png
+C:\Users\SAAN\Documents\Visual Studio 2015\Projects\Nopcommerce\Presentation\Nop.Web\Plugins\Misc.ODBCProductOnhandUpdate\web.config
+C:\Users\SAAN\Documents\Visual Studio 2015\Projects\Nopcommerce\Presentation\Nop.Web\Plugins\Misc.ODBCProductOnhandUpdate\Nop.Plugin.Misc.ODBCProductOnhandUpdate.dll.config
+C:\Users\SAAN\Documents\Visual Studio 2015\Projects\Nopcommerce\Presentation\Nop.Web\Plugins\Misc.ODBCProductOnhandUpdate\Nop.Plugin.Misc.ODBCProductOnhandUpdate.dll
+C:\Users\SAAN\Documents\Visual Studio 2015\Projects\Nopcommerce\Presentation\Nop.Web\Plugins\Misc.ODBCProductOnhandUpdate\Nop.Plugin.Misc.ODBCProductOnhandUpdate.pdb
+C:\Users\SAAN\Documents\Visual Studio 2015\Projects\Nopcommerce\Plugins\Nop.Plugin.Misc.ODBCProductOnhandUpdate\obj\Debug\Nop.Plugin.Misc.ODBCProductOnhandUpdate.csprojResolveAssemblyReference.cache
+C:\Users\SAAN\Documents\Visual Studio 2015\Projects\Nopcommerce\Plugins\Nop.Plugin.Misc.ODBCProductOnhandUpdate\obj\Debug\Nop.Plugin.Misc.ODBCProductOnhandUpdate.dll
+C:\Users\SAAN\Documents\Visual Studio 2015\Projects\Nopcommerce\Plugins\Nop.Plugin.Misc.ODBCProductOnhandUpdate\obj\Debug\Nop.Plugin.Misc.ODBCProductOnhandUpdate.pdb

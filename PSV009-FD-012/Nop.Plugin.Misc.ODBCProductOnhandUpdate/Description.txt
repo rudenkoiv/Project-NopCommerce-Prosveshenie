@@ -1,0 +1,9 @@
+﻿Group: Misc
+FriendlyName: ODBC Product onhand updating
+SystemName: Misc.ODBCProductOnhandUpdate
+Version: 1.
+SupportedVersions: 3.90
+Author: @rtm00
+DisplayOrder: 1
+FileName: Nop.Plugin.Misc.ODBCProductOnhandUpdate.dll
+Description: This plugin for updating product onhand from SQL database

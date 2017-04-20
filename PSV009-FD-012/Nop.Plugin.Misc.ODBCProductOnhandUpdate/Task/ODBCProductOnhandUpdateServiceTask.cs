@@ -95,11 +95,10 @@ namespace Nop.Plugin.Misc.ODBCProductOnhandUpdate
            
             IEnumerable<DataRow> q = from p in _odbcConnector.readData(strSql.ToString()).Tables[0].AsEnumerable() select p ;
             IEnumerable<DataRow> f = q.Where(p => p.ItemArray[1].ToString() == "InventoryFullEC").OrderBy(p => p.ItemArray[0]);
-            int msgId = 0;
+            int msgId = Convert.ToInt32(f.Max(p => p.ItemArray[0]));
 
-            if (f != null)
+            if (msgId != 0)
             {
-                msgId = Convert.ToInt32(f.Max(p => p.ItemArray[0]));
                 IEnumerable<DataRow> l = q.Where(p => Convert.ToInt32(p.ItemArray[0]) < msgId);
                 l.ToList().ForEach(p => UpdateMsgStatus(p.ItemArray[0].ToString(), true));
                 clearStockValue();
